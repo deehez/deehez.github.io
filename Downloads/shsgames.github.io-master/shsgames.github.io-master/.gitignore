@@ -1,0 +1,6 @@
+lib/
+node_modules/
+hash
+public_html/
+web/__compile_cache/
+pnpm-lock.yaml
